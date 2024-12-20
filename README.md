@@ -6,13 +6,17 @@
 </h2>
 
 <h3 align="center" style="margin-bottom: 32px">
-  <a href="https://docs.pageplug.cn/" target="_blank">使用文档</a>
+  <a href="https://docs.pageplug.cn/" target="_blank">PagePlug使用文档</a>
+  •
+  <a href="https://docs.pageplug.cn/%E4%BB%8B%E7%BB%8D/%E7%A4%BE%E5%8C%BA%E7%89%88%E6%9C%AC%E6%97%A5%E5%BF%97" target="_blank">社区版版本日志</a>
+  •
+  <a href="https://docs.pageplug.cn/%E5%95%86%E4%B8%9A%E7%89%88&%E4%BC%81%E4%B8%9A%E7%89%88/%E4%BC%81%E4%B8%9A%E7%89%88%E6%9C%AC%E6%97%A5%E5%BF%97" target="_blank">企业版版本日志</a>
 </h3>
 
 ## PagePlug 是什么？
 PagePlug 是 [Appsmith](https://github.com/appsmithorg/appsmith) 的中国化项目，是一个开源的、声明式的、可视化的前端低代码框架，可以用来制作 web 应用、微信小程序。
 
-> 当前源码版本为v1.9.37，社区版ce镜像版本为v1.9.37版本，企业版ee镜像版本为v1.9.38版本，企业版v1.9.39推送更新后会推送社区版更新，敬请期待。
+> 当前源码版本为v1.9.37，社区版ce镜像版本为v1.9.37版本，企业版ee镜像版本为v1.9.38.1版本，企业版v1.9.39推送更新后会推送社区版更新，敬请期待。
 
 记得在github上给开源的大佬们点个星星🌟支持下哦～～
 
@@ -206,7 +210,7 @@ yarn dev:weapp
 - 查看社区的想法及任务——[社区任务文档](https://docs.pageplug.cn/jie-shao/jia-ru-wo-men/she-qu-ren-wu)
 - 产品有更好的优化——[提交PR文档](https://docs.pageplug.cn/jie-shao/jia-ru-wo-men/ti-jiao-pull-request)
 - 探讨产品的使用及想法问题——[提交issue文档](https://docs.pageplug.cn/jie-shao/jia-ru-wo-men/ti-jiao-issue)
-- 部署安装遇到问题或者想加入社区交流学习、或者是对社区有其他的想法参与等等，扫描下方二维码联系PagePlug产品静静获取帮助 （目前1——7群已满，联系静静加入8群）
+- 部署安装遇到问题或者想加入社区交流学习、或者是对社区有其他的想法参与等等，扫描下方二维码联系PagePlug产品静静获取帮助 （目前1——8群已满，联系静静加入9群）
 
 
   <img src="static/pageplug/wechat_help.jpg" width="200">
@@ -221,7 +225,7 @@ PP Committer：xiaolu
 
 PP Maintainer：平头哥、kate、Bob
 
-PP Team Leader：QC王昆、DD（Owner）、Chris、克力、LY
+PP Team Leader：DD（Owner）、Chris Huang、克力、Lyy
 
 ## 感谢这些巨人
 PagePlug 代码中使用到的才华横溢的开源项目，感谢这些开源项目让世界更美好！
